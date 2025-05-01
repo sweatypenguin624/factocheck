@@ -1,0 +1,6 @@
+gradio
+llama-cpp-python
+tavily-api
+gemini-api
+flask
+flask-cors
