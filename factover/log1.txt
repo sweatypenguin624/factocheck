@@ -1,0 +1,1126 @@
+Llama Response: :
+It seems like the input is not in the correct format. However, I'll try to interpret the statement as a claim about Jawaharlal Nehru, the first Prime Minister of India.
+
+Claims:
+1. Nehru is dead.
+
+Questions:
+1. Is Nehru dead?None
+
+
+
+Results of Tavilly searches: :
+Jawaharlal Nehru[b] (14 November 1889 – 27 May 1964) was an Indian anti-colonial nationalist, secular humanist, social democrat,[2] and statesman who was a central figure in India during the middle of the 20th century. Nehru was a principal leader of the Indian nationalist movement in the 1930s and 1940s. Upon India's independence in 1947, he served as the country's first prime minister for 16 years.[3] Nehru promoted parliamentary democracy, secularism, and science and technology during the [...] foreign affairs, he led the establishment the Non-Aligned Movement, a group of nations that did not seek membership in the two main ideological blocs of the Cold War. Under Nehru's leadership, the Congress dominated national and state-level politics and won elections in 1951, 1957 and 1962. He died in office from a heart attack in 1964. His birthday is celebrated as Children's Day in India.[4] [...] Writing in 2005, Ramachandra Guha wrote that while no other Indian prime minister was ever close to the challenges that Nehru dealt with and if Nehru had died in 1958 then he would be remembered as the greatest statesman of the 20th century.[350] However, in recent years, Nehru's reputation has seen re-emergence and he is credited for keeping India together contrary to predictions of many that the country was bound to fall apart.[351]
+Pandit Jawaharlal Nehru, the first Prime Minister of India, died in the afternoon of 27 May 1964, at the age of 74, of a heart attack.
+On 28th May 1964, Nehru was cremated at Rajghat in Delhi, on the banks of the Yamuna River, north of the spot where his close senior comrade-in-
+In hindsight, the loss was indeed irreparable. Nehru's death on 27 May 1964 marked the end of an age of innocence—in life as in politics.
+Jawaharlal Nehru (born November 14, 1889, Allahabad, India—died May 27, 1964, New Delhi) was the first prime minister of independent India (1947–64), who established parliamentary government and became noted for his neutralist (nonaligned) policies in foreign affairs. He was also one of the principal leaders of the Indian Independence Movement during the 1930s and ’40s.
+Early years [...] Pandit (Hindi: “Pundit” or “Teacher”) Nehru
+(Show more)
+Born:
+November 14, 1889, Allahabad, India
+(Show more)
+Died:
+May 27, 1964, New Delhi (aged 74)
+(Show more)
+Title / Office:
+prime minister (1947-1964), India
+(Show more)
+Political Affiliation:
+Indian National Congress
+(Show more)
+Notable Family Members:
+father Motilal Nehru
+daughter Indira Gandhi
+(Show more)
+Role In:
+Delhi Pact
+Indus Waters Treaty
+Salt March
+(Show more)
+See all related content
+Show More
+Top Questions [...] What were Jawaharlal Nehru’s accomplishments?
+Jawaharlal Nehru was a key leader of the Indian National Congress and the independence movement. He often balanced the religiosity and traditionalism of Mahatma Gandhi with a more secular and modernist perspective, thus broadening the appeal of the movement. In 1947 he became India’s first prime minister and served until his death in 1964.
+
+
+
+
+Gemini responses: :
+Result: TRUTH
+Reasoning: "Jawaharlal Nehru[b] (14 November 1889 – 27 May 1964) was an Indian anti-colonial nationalist, secular humanist, social democrat,[2] and statesman who was a central figure in India during the middle of the 20th century."
+The text clearly states that Jawaharlal Nehru died on May 27, 1964.
+
+
+
+
+Llama responses: :
+Result: TRUTH
+Reasoning: "He died in office from a heart attack in 1964." 
+The search context clearly states that Jawaharlal Nehru died in office from a heart attack in 1964.None
+
+
+
+Final responses: :
+Result: TRUTH
+Reasoning: "Jawaharlal Nehru[b] (14 November 1889 – 27 May 1964) was an Indian anti-colonial nationalist, secular humanist, social democrat,[2] and statesman who was a central figure in India during the middle of the 20th century."
+The text clearly states that Jawaharlal Nehru died on May 27, 1964.
+
+
+
+
+
+
+
+Concatenated text: 
+:
+Claim: 1. Nehru is dead.
+Questions: 1. Is Nehru dead?None
+Search context: Jawaharlal Nehru[b] (14 November 1889 – 27 May 1964) was an Indian anti-colonial nationalist, secular humanist, social democrat,[2] and statesman who was a central figure in India during the middle of the 20th century. Nehru was a principal leader of the Indian nationalist movement in the 1930s and 1940s. Upon India's independence in 1947, he served as the country's first prime minister for 16 years.[3] Nehru promoted parliamentary democracy, secularism, and science and technology during the [...] foreign affairs, he led the establishment the Non-Aligned Movement, a group of nations that did not seek membership in the two main ideological blocs of the Cold War. Under Nehru's leadership, the Congress dominated national and state-level politics and won elections in 1951, 1957 and 1962. He died in office from a heart attack in 1964. His birthday is celebrated as Children's Day in India.[4] [...] Writing in 2005, Ramachandra Guha wrote that while no other Indian prime minister was ever close to the challenges that Nehru dealt with and if Nehru had died in 1958 then he would be remembered as the greatest statesman of the 20th century.[350] However, in recent years, Nehru's reputation has seen re-emergence and he is credited for keeping India together contrary to predictions of many that the country was bound to fall apart.[351]
+Pandit Jawaharlal Nehru, the first Prime Minister of India, died in the afternoon of 27 May 1964, at the age of 74, of a heart attack.
+On 28th May 1964, Nehru was cremated at Rajghat in Delhi, on the banks of the Yamuna River, north of the spot where his close senior comrade-in-
+In hindsight, the loss was indeed irreparable. Nehru's death on 27 May 1964 marked the end of an age of innocence—in life as in politics.
+Jawaharlal Nehru (born November 14, 1889, Allahabad, India—died May 27, 1964, New Delhi) was the first prime minister of independent India (1947–64), who established parliamentary government and became noted for his neutralist (nonaligned) policies in foreign affairs. He was also one of the principal leaders of the Indian Independence Movement during the 1930s and ’40s.
+Early years [...] Pandit (Hindi: “Pundit” or “Teacher”) Nehru
+(Show more)
+Born:
+November 14, 1889, Allahabad, India
+(Show more)
+Died:
+May 27, 1964, New Delhi (aged 74)
+(Show more)
+Title / Office:
+prime minister (1947-1964), India
+(Show more)
+Political Affiliation:
+Indian National Congress
+(Show more)
+Notable Family Members:
+father Motilal Nehru
+daughter Indira Gandhi
+(Show more)
+Role In:
+Delhi Pact
+Indus Waters Treaty
+Salt March
+(Show more)
+See all related content
+Show More
+Top Questions [...] What were Jawaharlal Nehru’s accomplishments?
+Jawaharlal Nehru was a key leader of the Indian National Congress and the independence movement. He often balanced the religiosity and traditionalism of Mahatma Gandhi with a more secular and modernist perspective, thus broadening the appeal of the movement. In 1947 he became India’s first prime minister and served until his death in 1964.
+
+Verification results: Result: TRUTH
+Reasoning: "Jawaharlal Nehru[b] (14 November 1889 – 27 May 1964) was an Indian anti-colonial nationalist, secular humanist, social democrat,[2] and statesman who was a central figure in India during the middle of the 20th century."
+The text clearly states that Jawaharlal Nehru died on May 27, 1964.
+
+
+
+
+
+
+Final Summary: 
+:
+Based on the information available, the claim that Nehru is dead is accurate. Jawaharlal Nehru, India's first Prime Minister, passed away on May 27, 1964.
+
+
+
+
+
+
+Final Result: :
+Based on the information available, the claim that Nehru is dead is accurate. Jawaharlal Nehru, India's first Prime Minister, passed away on May 27, 1964.
+
+
+
+
+Llama Response: :
+It seems like you haven't provided a query. Please provide the user's query, and I'll extract the claims and frame the questions for verification.
+
+Please provide the query, and I'll assist you accordingly.None
+
+
+
+Results of Tavilly searches: :
+
+
+
+Gemini responses: :
+
+
+
+Llama responses: :
+
+
+
+Final responses: :
+
+
+
+
+
+Final Result: :
+Llama Response: :
+It seems like the input is not in the correct format. However, I can try to extract facts and frame questions based on the statement.
+
+Claims:
+1. Modi is dead.
+
+Questions:
+1. Is Narendra Modi dead?None
+
+
+
+Results of Tavilly searches: :
+Narendra Damodardas Modi[a] (born 17 September 1950)[b] is an Indian politician who has served as the prime minister of India since 2014. Modi was the chief minister of Gujarat from 2001 to 2014 and is the member of parliament (MP) for Varanasi. He is a member of the Bharatiya Janata Party (BJP) and of the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindu nationalist paramilitary volunteer organisation. He is the longest-serving prime minister outside the Indian National Congress.[4] [...] had been killed by friendly fire.[423] [...] 1998.[c] In 2001, Modi was appointed chief minister of Gujarat and elected to the legislative assembly soon after. His administration is considered complicit in the 2002 Gujarat riots,[d] and has been criticised for its management of the crisis. According to official records, a little over 1,000 people were killed, three-quarters of whom were Muslim; independent sources estimated 2,000 deaths, mostly Muslim.[13] A Special Investigation Team appointed by the Supreme Court of India in 2012 found
+Modi is not alive on TV at 8 pm. The economy of India has crashed, GDP shrinking, and Modi is not talking.
+Party MLA Raju Kage triggered a row by asking if there would be no one to lead the country if PM Narendra Modi died.
+Companion of the Order of Logohu), Fiji (Companion of the Order of Fiji), Egypt (Order of Nile), France (Grand Cross of the Legion of Honour), and Greece (The Grand Cross of the Order of Honour). In 2018, PM received the prestigious Seoul Peace Prize for his contribution to peace and development.He has also received the Global Goalkeeper’ Award by Bill and Melinda Gates Foundation, and Global Energy and Environment Leadership Award by Cambridge Energy Research Associates. [...] Know the PM | Prime Minister of India
+Skip to main content
+
+A-
+A 
+A+
+A
+
+A
+
+
+
+
+
+
+
+
+Search  Search
+
+Language
+Choose a language 
+Menu
+
+Home
+News
+News Updates
+Media Coverage
+
+
+Mann Ki Baat
+Prime Minister’s Office
+Message from the Prime Minister
+Quest for Transparency
+Right to Information (RTI)
+List of Officers (PMO)
+
+
+
+PM’s Interviews
+
+
+PM’s Funds
+
+PM National Relief Fund
+National Defence Fund
+PM CARES Fund
+
+
+PM’s Visits
+International Visits
+Domestic Visits [...] The first ever Prime Minister to be born after Independence, Shri Modi has previously served as the Prime Minister of India from 2014 to 2019, and from 2019 to 2024. He also has the distinction of being the longest serving Chief Minister of Gujarat with his term spanning from October 2001 to May 2014.
+On Tuesday, Mr. Modi and his Bharatiya Janata Party, or BJP, fell back to earth. After having promised their biggest election romp yet, they lost more than 60
+
+
+
+
+Gemini responses: :
+Result: FALSE
+Reasoning: The search context states "Narendra Damodardas Modi[a] (born 17 September 1950)[b] is an Indian politician who has served as the prime minister of India since 2014." This indicates that he is currently alive and serving as the prime minister.
+
+
+
+
+Llama responses: :
+Result: FALSE
+Reasoning: "Narendra Damodardas Modi[a] (born 17 September 1950)[b] is an Indian politician who has served as the prime minister of India since 2014." 
+The first line of the search context clearly says, Narendra Modi was born on 17 September 1950 and has served as the prime minister of India since 2014.None
+
+
+
+Final responses: :
+Result: FALSE
+Reasoning: The search context states "Narendra Damodardas Modi[a] (born 17 September 1950)[b] is an Indian politician who has served as the prime minister of India since 2014." This indicates that he is currently alive and serving as the prime minister.
+
+
+
+
+
+
+
+Concatenated text: 
+:
+Claim: 1. Modi is dead.
+Questions: 1. Is Narendra Modi dead?None
+Search context: Narendra Damodardas Modi[a] (born 17 September 1950)[b] is an Indian politician who has served as the prime minister of India since 2014. Modi was the chief minister of Gujarat from 2001 to 2014 and is the member of parliament (MP) for Varanasi. He is a member of the Bharatiya Janata Party (BJP) and of the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindu nationalist paramilitary volunteer organisation. He is the longest-serving prime minister outside the Indian National Congress.[4] [...] had been killed by friendly fire.[423] [...] 1998.[c] In 2001, Modi was appointed chief minister of Gujarat and elected to the legislative assembly soon after. His administration is considered complicit in the 2002 Gujarat riots,[d] and has been criticised for its management of the crisis. According to official records, a little over 1,000 people were killed, three-quarters of whom were Muslim; independent sources estimated 2,000 deaths, mostly Muslim.[13] A Special Investigation Team appointed by the Supreme Court of India in 2012 found
+Modi is not alive on TV at 8 pm. The economy of India has crashed, GDP shrinking, and Modi is not talking.
+Party MLA Raju Kage triggered a row by asking if there would be no one to lead the country if PM Narendra Modi died.
+Companion of the Order of Logohu), Fiji (Companion of the Order of Fiji), Egypt (Order of Nile), France (Grand Cross of the Legion of Honour), and Greece (The Grand Cross of the Order of Honour). In 2018, PM received the prestigious Seoul Peace Prize for his contribution to peace and development.He has also received the Global Goalkeeper’ Award by Bill and Melinda Gates Foundation, and Global Energy and Environment Leadership Award by Cambridge Energy Research Associates. [...] Know the PM | Prime Minister of India
+Skip to main content
+
+A-
+A 
+A+
+A
+
+A
+
+
+
+
+
+
+
+
+Search  Search
+
+Language
+Choose a language 
+Menu
+
+Home
+News
+News Updates
+Media Coverage
+
+
+Mann Ki Baat
+Prime Minister’s Office
+Message from the Prime Minister
+Quest for Transparency
+Right to Information (RTI)
+List of Officers (PMO)
+
+
+
+PM’s Interviews
+
+
+PM’s Funds
+
+PM National Relief Fund
+National Defence Fund
+PM CARES Fund
+
+
+PM’s Visits
+International Visits
+Domestic Visits [...] The first ever Prime Minister to be born after Independence, Shri Modi has previously served as the Prime Minister of India from 2014 to 2019, and from 2019 to 2024. He also has the distinction of being the longest serving Chief Minister of Gujarat with his term spanning from October 2001 to May 2014.
+On Tuesday, Mr. Modi and his Bharatiya Janata Party, or BJP, fell back to earth. After having promised their biggest election romp yet, they lost more than 60
+
+Verification results: Result: FALSE
+Reasoning: The search context states "Narendra Damodardas Modi[a] (born 17 September 1950)[b] is an Indian politician who has served as the prime minister of India since 2014." This indicates that he is currently alive and serving as the prime minister.
+
+
+
+
+
+
+Final Summary: 
+:
+Based on the available information, the claim that Narendra Modi is dead is false. Narendra Damodardas Modi was born on September 17, 1950, and has served as the Prime Minister of India since 2014.
+
+
+
+
+
+
+Final Result: :
+Based on the available information, the claim that Narendra Modi is dead is false. Narendra Damodardas Modi was born on September 17, 1950, and has served as the Prime Minister of India since 2014.
+
+
+
+
+Llama Response: :
+It seems like the input is not in the correct format. However, I can still extract the claims and frame questions based on the given statement.
+
+Claims:
+1. Modi is the PM of Pakistan.
+
+Questions:
+1. Is Modi the current Prime Minister of Pakistan?None
+
+
+
+Results of Tavilly searches: :
+The way he treats state governments run by non-BJP parties looks as if he is the Prime Minister of Pakistan. The AAP leader pointed out how Modi
+Appreciate your message @NawazSharifMNS. The people of India have always stood for peace, security and progressive ideas. Advancing the well-being and security of our people shall always remain our priority. https://t.co/PKK47YKAog
+
+— Narendra Modi (@narendramodi) June 10, 2024
+
+
+
+By contrast, the congratulatory message from Pakistan’s current prime minister, Nawaz’s younger brother Shehbaz Sharif, was far more restrained. [...] A decade ago, images of Pakistan’s then-Prime Minister Nawaz Sharif clasping Modi’s hands during his visit to attend the swearing-in event signalled a fresh hope for long-tortured India-Pakistan relations — hope that subsequent setbacks to ties have all but extinguished. Now, as Modi begins his third term in office, with a sharply reduced mandate that has left him dependent on coalition allies to stay in power, analysts expect the Indian leader to pursue a tough posture towards Pakistan, with [...] “My warm felicitations to Modi Ji (@narendramodi) on assuming office for the third time. Your party’s success in recent elections reflects the confidence of the people in your leadership. Let us replace hate with hope and seize the opportunity to shape the destiny of the two billion people of South Asia,” the three-time prime minister, and currently a member of the Pakistani parliament, wrote on June 10.
+What does Pakistan make of Narendra Modi?
+
+Modi and Sharif have raised hopes but agreement on issues that have soured ties for years is a long way off
+
+The victory of Narendra Modi's Bharatiya Janata Party in India's elections has created as much concern in Pakistan as Pakistani Prime Minister Nawaz Sharif's decision to attend his oath-taking ceremony has created excitement.
+
+Both emotions invoke images from recent history. [...] "Unlike Mr Vajpayee, Mr Modi will be ideologically more amenable to the RSS rank-and-file when they selectively disburse state patronage at the grass-roots.
+
+"This is certain to create unrest among Muslims and low-caste Hindus, which may be used by Pakistan's religious groups to create pressure on Prime Minister Sharif and limit his options." [...] "People voted for him not because of Hindu nationalism, but because of his economic success in Gujarat. With Nawaz Sharif - himself a businessman - at the helm in Pakistan, we are likely to see a major thrust towards greater peace and trade."
+
+But what sets Mr Modi apart from all the previous non-Congress Indian premiers is that none of them was a sworn member of the RSS, says Hafeez Chhachar, India expert and a former BBC Hindi correspondent in Islamabad.
+18 August 2018  10 April 2022   3 years, 235 days   2018        Pakistan Tehreek-e-Insaf    General elections were held on 25 July 2018, which resulted in the Pakistan Tehreek-e-Insaf winning 156 out of 342 seats, forming a coalition government of 177 members including the MQM, BAP and others. On 18 August, he was elected as Prime Minister of Pakistan. On 10 April 2022, a no-confidence vote was conducted and he was ousted from office.  15th    PTI • PML-Q • GDA • MQM-P • BAP • AML • JWP [...] Key
+Key for prime ministers list
+    Party name
+    Muslim League / Pakistan Muslim League
+    Awami League
+    Republican Party
+    Peoples Party
+    National Peoples Party
+    Muslim League (N)
+    Muslim League (Q)
+    Tehreek-e-Insaf
+    Independent
+Prime ministers
+List of prime ministers of Pakistan
+No. Portrait    Name    Took office Left office Tenure  Elections   Political party
+(Alliance)  Note(s) Government
+National Assembly   Coalition[b]
+1       Liaquat Ali Khan [...] ^ a b Rebecca Santana; Chris Brummitt; Zarar Khan (22 June 2012). "Raja Pervaiz Ashraf Is Pakistan's New Prime Minister". The Huffington Post. Archived from the original on 3 August 2012. Retrieved 8 September 2012.
+^ "Yousuf Raza Gilani is sent packing". Dawn. Herald. 19 June 2012. Archived from the original on 17 May 2013. Retrieved 8 September 2012.
+Narendra Damodardas Modi[a] (born 17 September 1950)[b] is an Indian politician who has served as the prime minister of India since 2014. Modi was the chief minister of Gujarat from 2001 to 2014 and is the member of parliament (MP) for Varanasi. He is a member of the Bharatiya Janata Party (BJP) and of the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindu nationalist paramilitary volunteer organisation. He is the longest-serving prime minister outside the Indian National Congress.[4] [...] Prime Minister (2014–present)
+
+
+
+
+Gemini responses: :
+Result: FALSE
+Reasoning: The search context includes the statement "Narendra Damodardas Modi... is an Indian politician who has served as the prime minister of India since 2014." This directly contradicts the claim that Modi is the PM of Pakistan.
+
+
+
+
+Llama responses: :
+Result: FALSE
+Reasoning: "Narendra Damodardas Modi[a] (born 17 September 1950)[b] is an Indian politician who has served as the prime minister of India since 2014." 
+The first line of the search context clearly says, Narendra Modi has served as the prime minister of India since 2014, not Pakistan.None
+
+
+
+Final responses: :
+Result: FALSE
+Reasoning: The search context includes the statement "Narendra Damodardas Modi... is an Indian politician who has served as the prime minister of India since 2014." This directly contradicts the claim that Modi is the PM of Pakistan.
+
+
+
+
+
+
+
+Concatenated text: 
+:
+Claim: 1. Modi is the PM of Pakistan.
+Questions: 1. Is Modi the current Prime Minister of Pakistan?None
+Search context: The way he treats state governments run by non-BJP parties looks as if he is the Prime Minister of Pakistan. The AAP leader pointed out how Modi
+Appreciate your message @NawazSharifMNS. The people of India have always stood for peace, security and progressive ideas. Advancing the well-being and security of our people shall always remain our priority. https://t.co/PKK47YKAog
+
+— Narendra Modi (@narendramodi) June 10, 2024
+
+
+
+By contrast, the congratulatory message from Pakistan’s current prime minister, Nawaz’s younger brother Shehbaz Sharif, was far more restrained. [...] A decade ago, images of Pakistan’s then-Prime Minister Nawaz Sharif clasping Modi’s hands during his visit to attend the swearing-in event signalled a fresh hope for long-tortured India-Pakistan relations — hope that subsequent setbacks to ties have all but extinguished. Now, as Modi begins his third term in office, with a sharply reduced mandate that has left him dependent on coalition allies to stay in power, analysts expect the Indian leader to pursue a tough posture towards Pakistan, with [...] “My warm felicitations to Modi Ji (@narendramodi) on assuming office for the third time. Your party’s success in recent elections reflects the confidence of the people in your leadership. Let us replace hate with hope and seize the opportunity to shape the destiny of the two billion people of South Asia,” the three-time prime minister, and currently a member of the Pakistani parliament, wrote on June 10.
+What does Pakistan make of Narendra Modi?
+
+Modi and Sharif have raised hopes but agreement on issues that have soured ties for years is a long way off
+
+The victory of Narendra Modi's Bharatiya Janata Party in India's elections has created as much concern in Pakistan as Pakistani Prime Minister Nawaz Sharif's decision to attend his oath-taking ceremony has created excitement.
+
+Both emotions invoke images from recent history. [...] "Unlike Mr Vajpayee, Mr Modi will be ideologically more amenable to the RSS rank-and-file when they selectively disburse state patronage at the grass-roots.
+
+"This is certain to create unrest among Muslims and low-caste Hindus, which may be used by Pakistan's religious groups to create pressure on Prime Minister Sharif and limit his options." [...] "People voted for him not because of Hindu nationalism, but because of his economic success in Gujarat. With Nawaz Sharif - himself a businessman - at the helm in Pakistan, we are likely to see a major thrust towards greater peace and trade."
+
+But what sets Mr Modi apart from all the previous non-Congress Indian premiers is that none of them was a sworn member of the RSS, says Hafeez Chhachar, India expert and a former BBC Hindi correspondent in Islamabad.
+18 August 2018  10 April 2022   3 years, 235 days   2018        Pakistan Tehreek-e-Insaf    General elections were held on 25 July 2018, which resulted in the Pakistan Tehreek-e-Insaf winning 156 out of 342 seats, forming a coalition government of 177 members including the MQM, BAP and others. On 18 August, he was elected as Prime Minister of Pakistan. On 10 April 2022, a no-confidence vote was conducted and he was ousted from office.  15th    PTI • PML-Q • GDA • MQM-P • BAP • AML • JWP [...] Key
+Key for prime ministers list
+    Party name
+    Muslim League / Pakistan Muslim League
+    Awami League
+    Republican Party
+    Peoples Party
+    National Peoples Party
+    Muslim League (N)
+    Muslim League (Q)
+    Tehreek-e-Insaf
+    Independent
+Prime ministers
+List of prime ministers of Pakistan
+No. Portrait    Name    Took office Left office Tenure  Elections   Political party
+(Alliance)  Note(s) Government
+National Assembly   Coalition[b]
+1       Liaquat Ali Khan [...] ^ a b Rebecca Santana; Chris Brummitt; Zarar Khan (22 June 2012). "Raja Pervaiz Ashraf Is Pakistan's New Prime Minister". The Huffington Post. Archived from the original on 3 August 2012. Retrieved 8 September 2012.
+^ "Yousuf Raza Gilani is sent packing". Dawn. Herald. 19 June 2012. Archived from the original on 17 May 2013. Retrieved 8 September 2012.
+Narendra Damodardas Modi[a] (born 17 September 1950)[b] is an Indian politician who has served as the prime minister of India since 2014. Modi was the chief minister of Gujarat from 2001 to 2014 and is the member of parliament (MP) for Varanasi. He is a member of the Bharatiya Janata Party (BJP) and of the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindu nationalist paramilitary volunteer organisation. He is the longest-serving prime minister outside the Indian National Congress.[4] [...] Prime Minister (2014–present)
+
+Verification results: Result: FALSE
+Reasoning: The search context includes the statement "Narendra Damodardas Modi... is an Indian politician who has served as the prime minister of India since 2014." This directly contradicts the claim that Modi is the PM of Pakistan.
+
+
+
+
+
+
+Final Summary: 
+:
+Based on available information, the claim that Narendra Modi is the Prime Minister of Pakistan is false. Narendra Modi is the current Prime Minister of India, a position he has held since 2014. The search results confirm this, identifying him as an Indian politician and the Prime Minister of India.
+
+
+
+
+
+
+Final Result: :
+Based on available information, the claim that Narendra Modi is the Prime Minister of Pakistan is false. Narendra Modi is the current Prime Minister of India, a position he has held since 2014. The search results confirm this, identifying him as an Indian politician and the Prime Minister of India.
+
+
+
+
+Llama Response: :
+It seems like the input is not in the correct format. However, I'll try to break down the statement into individual claims and frame yes-or-no questions for each claim.
+
+Claims:
+1. Mark Canrey is the new PM of Canada.
+Questions:
+1. Is Mark Canrey the current PM of Canada?None
+
+
+
+Results of Tavilly searches: :
+Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025. He previously served as the eighth governor of the Bank of Canada from 2008 to 2013 and the 120th governor of the Bank of England from 2013 to 2020. [...] From Wikipedia, the free encyclopedia
+Prime Minister of Canada since 2025
+For the American football player, see Mark Carney (American football).
+| 
+The Right Honourable
+Mark Carney
+PC OC
+|
+| --- |
+| 
+Carney in 2015
+|
+|  |
+| 24th Prime Minister of Canada |
+| 
+Incumbent
+|
+| Assumed office
+March 14, 2025 |
+| Monarch | Charles III |
+| Governor General | Mary Simon |
+| Preceded by | Justin Trudeau |
+| Leader of the Liberal Party |
+| 
+Incumbent
+|
+| Assumed office
+March 9, 2025 | [...] 24th Prime Minister of Canada (2025–present)
+Leader of the Liberal Party of Canada (2025–present)
+120th Governor of the Bank of England (2013–2020)
+8th Governor of the Bank of Canada (2008–2013)
+2nd Chair of the Financial Stability Board (2011–2018)
+
+|
+| Premiership |
+TORONTO (AP) — Former central banker Mark Carney is Canada’s new prime minister after being sworn in following the resignation of Justin Trudeau.
+Carney is 59. He was born in Fort Smith, Northwest Territories, on March 16, 1965, and raised in Edmonton, Alberta.
+Credentials [...] Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Share
+Share [...] Fullscreen/Exit Fullscreenf
+Mute/Unmutem
+Decrease Caption Size-
+Increase Caption Size+ or =
+Seek %0-9
+0.5x1x1.25x1.5x2x
+facebook linkedin Email reddit
+Link
+Copied
+Auto1080p720p540p360p270p180p
+Live
+00:00
+01:54
+01:54 
+1 of 8 | Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Read More
+Mark Carney, an economist and political newcomer, has been sworn in as Canada's new prime minister, and delivered remarks vowing to "never"
+OTTAWA, March 9 (Reuters) - Former central banker Mark Carney won the race to become leader of Canada's ruling Liberal Party and will succeed Justin Trudeau as prime minister, official results showed on Sunday.
+Carney will take over at a tumultuous time in Canada, which is in the midst of a trade war with longtime ally the United States under President Donald Trump and must hold a general election soon. [...] Item 1 of 7 Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool
+[1/7]Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool Purchase Licensing Rights, opens new tab [...] Justin Trudeau stepping down after more than nine years in power
+
+Former central banker Mark Carney will be next Prime Minister
+Carney promises to fight Trump's tariffs
+Mark Carney addresses supporters after winning the Liberal Party election on Sunday. He is due to be sworn in on Friday. Artur Widak/NurPhoto via Getty Images *hide caption*
+*toggle caption*
+Artur Widak/NurPhoto via Getty Images
+Mark Carney, a central banker-turned-centrist politician, was sworn in as Canada's newest prime minister on Friday morning. The ceremony in Ottawa came less than a week after he won Sunday's Liberal Party election with nearly 86% of the vote. [...] Carney takes the reins from longtime Prime Minister Justin Trudeau, who announced his resignation in January after a decade in office and a sharp decline in approval ratings. [...] Who is Mark Carney, Canada's new prime minister? Mark Carney is a newcomer to elected politics, with decades of experience in finance. After his landslide victory, he pledged to continue tariffs on the U.S. "until the Americans show us respect."
+World
+5 things to know about Mark Carney, Canada's new prime minister
+Updated March 14, 202511:58 AM ET Originally published March 10, 202511:36 AM ET
+By
+Rachel Treisman
+
+
+
+
+Gemini responses: :
+Result: FALSE
+Reasoning: The search context states "Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025." and "Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms."
+The user query says "Mark Canrey is the new PM of Canada." which is a misspelling of Mark Carney. However, the search results indicate that Mark Carney is the PM of Canada, not Mark Canrey.
+
+
+
+
+Llama responses: :
+Result: TRUTH
+Reasoning: "Mark Carney is Canada’s new prime minister after being sworn in following the resignation of Justin Trudeau." 
+"Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms." 
+"Mark Carney, an economist and political newcomer, has been sworn in as Canada's new prime minister, and delivered remarks vowing to "never"" 
+"Mark Carney, a central banker-turned-centrist politician, was sworn in as Canada's newest prime minister on Friday morning." 
+The multiple lines of the search context clearly say that Mark Carney is the new prime minister of Canada.None
+
+
+
+Final responses: :
+Result: FALSE
+Reasoning: The search context states "Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025." and "Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms."
+The user query says "Mark Canrey is the new PM of Canada." which is a misspelling of Mark Carney. However, the search results indicate that Mark Carney is the PM of Canada, not Mark Canrey.
+
+
+
+
+
+
+
+Concatenated text: 
+:
+Claim: 1. Mark Canrey is the new PM of Canada.
+Questions: 1. Is Mark Canrey the current PM of Canada?None
+Search context: Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025. He previously served as the eighth governor of the Bank of Canada from 2008 to 2013 and the 120th governor of the Bank of England from 2013 to 2020. [...] From Wikipedia, the free encyclopedia
+Prime Minister of Canada since 2025
+For the American football player, see Mark Carney (American football).
+| 
+The Right Honourable
+Mark Carney
+PC OC
+|
+| --- |
+| 
+Carney in 2015
+|
+|  |
+| 24th Prime Minister of Canada |
+| 
+Incumbent
+|
+| Assumed office
+March 14, 2025 |
+| Monarch | Charles III |
+| Governor General | Mary Simon |
+| Preceded by | Justin Trudeau |
+| Leader of the Liberal Party |
+| 
+Incumbent
+|
+| Assumed office
+March 9, 2025 | [...] 24th Prime Minister of Canada (2025–present)
+Leader of the Liberal Party of Canada (2025–present)
+120th Governor of the Bank of England (2013–2020)
+8th Governor of the Bank of Canada (2008–2013)
+2nd Chair of the Financial Stability Board (2011–2018)
+
+|
+| Premiership |
+TORONTO (AP) — Former central banker Mark Carney is Canada’s new prime minister after being sworn in following the resignation of Justin Trudeau.
+Carney is 59. He was born in Fort Smith, Northwest Territories, on March 16, 1965, and raised in Edmonton, Alberta.
+Credentials [...] Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Share
+Share [...] Fullscreen/Exit Fullscreenf
+Mute/Unmutem
+Decrease Caption Size-
+Increase Caption Size+ or =
+Seek %0-9
+0.5x1x1.25x1.5x2x
+facebook linkedin Email reddit
+Link
+Copied
+Auto1080p720p540p360p270p180p
+Live
+00:00
+01:54
+01:54 
+1 of 8 | Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Read More
+Mark Carney, an economist and political newcomer, has been sworn in as Canada's new prime minister, and delivered remarks vowing to "never"
+OTTAWA, March 9 (Reuters) - Former central banker Mark Carney won the race to become leader of Canada's ruling Liberal Party and will succeed Justin Trudeau as prime minister, official results showed on Sunday.
+Carney will take over at a tumultuous time in Canada, which is in the midst of a trade war with longtime ally the United States under President Donald Trump and must hold a general election soon. [...] Item 1 of 7 Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool
+[1/7]Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool Purchase Licensing Rights, opens new tab [...] Justin Trudeau stepping down after more than nine years in power
+
+Former central banker Mark Carney will be next Prime Minister
+Carney promises to fight Trump's tariffs
+Mark Carney addresses supporters after winning the Liberal Party election on Sunday. He is due to be sworn in on Friday. Artur Widak/NurPhoto via Getty Images *hide caption*
+*toggle caption*
+Artur Widak/NurPhoto via Getty Images
+Mark Carney, a central banker-turned-centrist politician, was sworn in as Canada's newest prime minister on Friday morning. The ceremony in Ottawa came less than a week after he won Sunday's Liberal Party election with nearly 86% of the vote. [...] Carney takes the reins from longtime Prime Minister Justin Trudeau, who announced his resignation in January after a decade in office and a sharp decline in approval ratings. [...] Who is Mark Carney, Canada's new prime minister? Mark Carney is a newcomer to elected politics, with decades of experience in finance. After his landslide victory, he pledged to continue tariffs on the U.S. "until the Americans show us respect."
+World
+5 things to know about Mark Carney, Canada's new prime minister
+Updated March 14, 202511:58 AM ET Originally published March 10, 202511:36 AM ET
+By
+Rachel Treisman
+
+Verification results: Result: FALSE
+Reasoning: The search context states "Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025." and "Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms."
+The user query says "Mark Canrey is the new PM of Canada." which is a misspelling of Mark Carney. However, the search results indicate that Mark Carney is the PM of Canada, not Mark Canrey.
+
+
+
+
+
+
+Final Summary: 
+:
+Based on the information available, here's a breakdown of the claim that "Mark Canrey is the new PM of Canada":
+
+The user's claim contains a misspelling; the correct name is Mark Carney. Multiple sources confirm that Mark Carney assumed the role of Prime Minister of Canada in 2025, succeeding Justin Trudeau. Therefore, while the name in the claim is misspelled, the essence of the claim is correct: Mark Carney is indeed the current Prime Minister of Canada.
+
+
+
+
+
+
+Final Result: :
+Based on the information available, here's a breakdown of the claim that "Mark Canrey is the new PM of Canada":
+
+The user's claim contains a misspelling; the correct name is Mark Carney. Multiple sources confirm that Mark Carney assumed the role of Prime Minister of Canada in 2025, succeeding Justin Trudeau. Therefore, while the name in the claim is misspelled, the essence of the claim is correct: Mark Carney is indeed the current Prime Minister of Canada.
+
+
+
+
+Llama Response: :
+It seems like the input is not in the correct format. However, I'll try to break down the statement into individual claims and frame yes-or-no questions for each claim.
+
+Claims:
+1. Mark Canrey is the new PM of Canada.
+Questions:
+1. Is Mark Canrey the current PM of Canada?None
+
+
+
+Results of Tavilly searches: :
+Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025. He previously served as the eighth governor of the Bank of Canada from 2008 to 2013 and the 120th governor of the Bank of England from 2013 to 2020. [...] From Wikipedia, the free encyclopedia
+Prime Minister of Canada since 2025
+For the American football player, see Mark Carney (American football).
+| 
+The Right Honourable
+Mark Carney
+PC OC
+|
+| --- |
+| 
+Carney in 2015
+|
+|  |
+| 24th Prime Minister of Canada |
+| 
+Incumbent
+|
+| Assumed office
+March 14, 2025 |
+| Monarch | Charles III |
+| Governor General | Mary Simon |
+| Preceded by | Justin Trudeau |
+| Leader of the Liberal Party |
+| 
+Incumbent
+|
+| Assumed office
+March 9, 2025 | [...] 24th Prime Minister of Canada (2025–present)
+Leader of the Liberal Party of Canada (2025–present)
+120th Governor of the Bank of England (2013–2020)
+8th Governor of the Bank of Canada (2008–2013)
+2nd Chair of the Financial Stability Board (2011–2018)
+
+|
+| Premiership |
+TORONTO (AP) — Former central banker Mark Carney is Canada’s new prime minister after being sworn in following the resignation of Justin Trudeau.
+Carney is 59. He was born in Fort Smith, Northwest Territories, on March 16, 1965, and raised in Edmonton, Alberta.
+Credentials [...] Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Share
+Share [...] Fullscreen/Exit Fullscreenf
+Mute/Unmutem
+Decrease Caption Size-
+Increase Caption Size+ or =
+Seek %0-9
+0.5x1x1.25x1.5x2x
+facebook linkedin Email reddit
+Link
+Copied
+Auto1080p720p540p360p270p180p
+Live
+00:00
+01:54
+01:54 
+1 of 8 | Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Read More
+Mark Carney, an economist and political newcomer, has been sworn in as Canada's new prime minister, and delivered remarks vowing to "never"
+OTTAWA, March 9 (Reuters) - Former central banker Mark Carney won the race to become leader of Canada's ruling Liberal Party and will succeed Justin Trudeau as prime minister, official results showed on Sunday.
+Carney will take over at a tumultuous time in Canada, which is in the midst of a trade war with longtime ally the United States under President Donald Trump and must hold a general election soon. [...] Item 1 of 7 Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool
+[1/7]Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool Purchase Licensing Rights, opens new tab [...] Justin Trudeau stepping down after more than nine years in power
+
+Former central banker Mark Carney will be next Prime Minister
+Carney promises to fight Trump's tariffs
+Mark Carney addresses supporters after winning the Liberal Party election on Sunday. He is due to be sworn in on Friday. Artur Widak/NurPhoto via Getty Images *hide caption*
+*toggle caption*
+Artur Widak/NurPhoto via Getty Images
+Mark Carney, a central banker-turned-centrist politician, was sworn in as Canada's newest prime minister on Friday morning. The ceremony in Ottawa came less than a week after he won Sunday's Liberal Party election with nearly 86% of the vote. [...] Carney takes the reins from longtime Prime Minister Justin Trudeau, who announced his resignation in January after a decade in office and a sharp decline in approval ratings. [...] Who is Mark Carney, Canada's new prime minister? Mark Carney is a newcomer to elected politics, with decades of experience in finance. After his landslide victory, he pledged to continue tariffs on the U.S. "until the Americans show us respect."
+World
+5 things to know about Mark Carney, Canada's new prime minister
+Updated March 14, 202511:58 AM ET Originally published March 10, 202511:36 AM ET
+By
+Rachel Treisman
+
+
+
+
+Gemini responses: :
+Result: FALSE
+Reasoning: The search context states "Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025." and "Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms." and "Former central banker Mark Carney won the race to become leader of Canada's ruling Liberal Party and will succeed Justin Trudeau as prime minister, official results showed on Sunday."
+The query states "Mark Canrey is the new PM of Canada." which is a misspelling of "Mark Carney".
+
+
+
+
+Llama responses: :
+Result: TRUTH
+Reasoning: "Mark Carney is Canada’s new prime minister after being sworn in following the resignation of Justin Trudeau." 
+"Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms." 
+"Mark Carney, an economist and political newcomer, has been sworn in as Canada's new prime minister, and delivered remarks vowing to "never"" 
+"Mark Carney, a central banker-turned-centrist politician, was sworn in as Canada's newest prime minister on Friday morning." 
+The multiple lines of the search context clearly say that Mark Carney is the new prime minister of Canada.None
+
+
+
+Final responses: :
+Result: FALSE
+Reasoning: The search context states "Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025." and "Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms." and "Former central banker Mark Carney won the race to become leader of Canada's ruling Liberal Party and will succeed Justin Trudeau as prime minister, official results showed on Sunday."
+The query states "Mark Canrey is the new PM of Canada." which is a misspelling of "Mark Carney".
+</OTHER_RESPONSE>
+
+
+
+
+
+
+Concatenated text: 
+:
+Claim: 1. Mark Canrey is the new PM of Canada.
+Questions: 1. Is Mark Canrey the current PM of Canada?None
+Search context: Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025. He previously served as the eighth governor of the Bank of Canada from 2008 to 2013 and the 120th governor of the Bank of England from 2013 to 2020. [...] From Wikipedia, the free encyclopedia
+Prime Minister of Canada since 2025
+For the American football player, see Mark Carney (American football).
+| 
+The Right Honourable
+Mark Carney
+PC OC
+|
+| --- |
+| 
+Carney in 2015
+|
+|  |
+| 24th Prime Minister of Canada |
+| 
+Incumbent
+|
+| Assumed office
+March 14, 2025 |
+| Monarch | Charles III |
+| Governor General | Mary Simon |
+| Preceded by | Justin Trudeau |
+| Leader of the Liberal Party |
+| 
+Incumbent
+|
+| Assumed office
+March 9, 2025 | [...] 24th Prime Minister of Canada (2025–present)
+Leader of the Liberal Party of Canada (2025–present)
+120th Governor of the Bank of England (2013–2020)
+8th Governor of the Bank of Canada (2008–2013)
+2nd Chair of the Financial Stability Board (2011–2018)
+
+|
+| Premiership |
+TORONTO (AP) — Former central banker Mark Carney is Canada’s new prime minister after being sworn in following the resignation of Justin Trudeau.
+Carney is 59. He was born in Fort Smith, Northwest Territories, on March 16, 1965, and raised in Edmonton, Alberta.
+Credentials [...] Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Share
+Share [...] Fullscreen/Exit Fullscreenf
+Mute/Unmutem
+Decrease Caption Size-
+Increase Caption Size+ or =
+Seek %0-9
+0.5x1x1.25x1.5x2x
+facebook linkedin Email reddit
+Link
+Copied
+Auto1080p720p540p360p270p180p
+Live
+00:00
+01:54
+01:54 
+1 of 8 | Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Read More
+Mark Carney, an economist and political newcomer, has been sworn in as Canada's new prime minister, and delivered remarks vowing to "never"
+OTTAWA, March 9 (Reuters) - Former central banker Mark Carney won the race to become leader of Canada's ruling Liberal Party and will succeed Justin Trudeau as prime minister, official results showed on Sunday.
+Carney will take over at a tumultuous time in Canada, which is in the midst of a trade war with longtime ally the United States under President Donald Trump and must hold a general election soon. [...] Item 1 of 7 Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool
+[1/7]Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool Purchase Licensing Rights, opens new tab [...] Justin Trudeau stepping down after more than nine years in power
+
+Former central banker Mark Carney will be next Prime Minister
+Carney promises to fight Trump's tariffs
+Mark Carney addresses supporters after winning the Liberal Party election on Sunday. He is due to be sworn in on Friday. Artur Widak/NurPhoto via Getty Images *hide caption*
+*toggle caption*
+Artur Widak/NurPhoto via Getty Images
+Mark Carney, a central banker-turned-centrist politician, was sworn in as Canada's newest prime minister on Friday morning. The ceremony in Ottawa came less than a week after he won Sunday's Liberal Party election with nearly 86% of the vote. [...] Carney takes the reins from longtime Prime Minister Justin Trudeau, who announced his resignation in January after a decade in office and a sharp decline in approval ratings. [...] Who is Mark Carney, Canada's new prime minister? Mark Carney is a newcomer to elected politics, with decades of experience in finance. After his landslide victory, he pledged to continue tariffs on the U.S. "until the Americans show us respect."
+World
+5 things to know about Mark Carney, Canada's new prime minister
+Updated March 14, 202511:58 AM ET Originally published March 10, 202511:36 AM ET
+By
+Rachel Treisman
+
+Verification results: Result: FALSE
+Reasoning: The search context states "Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025." and "Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms." and "Former central banker Mark Carney won the race to become leader of Canada's ruling Liberal Party and will succeed Justin Trudeau as prime minister, official results showed on Sunday."
+The query states "Mark Canrey is the new PM of Canada." which is a misspelling of "Mark Carney".
+</OTHER_RESPONSE>
+
+
+
+
+
+Final Summary: 
+:
+Based on the information available, here's a breakdown of the claim that "Mark Canrey is the new PM of Canada":
+
+The statement is **incorrect** due to a misspelling. The correct name is Mark Carney. Multiple sources confirm that Mark Carney assumed the role of Prime Minister of Canada in 2025, succeeding Justin Trudeau. He became the leader of the Liberal Party and subsequently the Prime Minister.
+
+
+
+
+
+
+Final Result: :
+Based on the information available, here's a breakdown of the claim that "Mark Canrey is the new PM of Canada":
+
+The statement is **incorrect** due to a misspelling. The correct name is Mark Carney. Multiple sources confirm that Mark Carney assumed the role of Prime Minister of Canada in 2025, succeeding Justin Trudeau. He became the leader of the Liberal Party and subsequently the Prime Minister.
+
+
+
+
+Llama Response: :
+It seems like the input is not in the correct format. However, I'll try to break down the statement into individual claims and frame yes-or-no questions for each claim.
+
+Claims:
+1. Mark Carney is the new Prime Minister of Canada.
+Questions:
+1. Is Mark Carney the current Prime Minister of Canada?None
+
+
+
+Results of Tavilly searches: :
+Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025. He previously served as the eighth governor of the Bank of Canada from 2008 to 2013 and the 120th governor of the Bank of England from 2013 to 2020. [...] From Wikipedia, the free encyclopedia
+Prime Minister of Canada since 2025
+For the American football player, see Mark Carney (American football).
+| 
+The Right Honourable
+Mark Carney
+PC OC
+|
+| --- |
+| 
+Carney in 2015
+|
+|  |
+| 24th Prime Minister of Canada |
+| 
+Incumbent
+|
+| Assumed office
+March 14, 2025 |
+| Monarch | Charles III |
+| Governor General | Mary Simon |
+| Preceded by | Justin Trudeau |
+| Leader of the Liberal Party |
+| 
+Incumbent
+|
+| Assumed office
+March 9, 2025 | [...] 24th Prime Minister of Canada (2025–present)
+Leader of the Liberal Party of Canada (2025–present)
+120th Governor of the Bank of England (2013–2020)
+8th Governor of the Bank of Canada (2008–2013)
+2nd Chair of the Financial Stability Board (2011–2018)
+
+|
+| Premiership |
+The Right Honourable Mark Carney, Prime Minister of Canada
+Mark Carney is Canada’s 24th Prime Minister. He was elected Leader of the Liberal Party of Canada and sworn in as Prime Minister in March 2025. He leads a government that will take action to unite Canadians, defend Canada’s sovereignty, and build the strongest economy in the G7.
+TORONTO (AP) — Former central banker Mark Carney is Canada’s new prime minister after being sworn in following the resignation of Justin Trudeau.
+Carney is 59. He was born in Fort Smith, Northwest Territories, on March 16, 1965, and raised in Edmonton, Alberta.
+Credentials [...] Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Share
+Share [...] Fullscreen/Exit Fullscreenf
+Mute/Unmutem
+Decrease Caption Size-
+Increase Caption Size+ or =
+Seek %0-9
+0.5x1x1.25x1.5x2x
+facebook linkedin Email reddit
+Link
+Copied
+Auto1080p720p540p360p270p180p
+Live
+00:00
+01:54
+01:54 
+1 of 8 | Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Read More
+Mark Carney sworn in as first new Canadian prime minister in nine years
+
+Mark Carney, an economist and political newcomer, has been sworn in as Canada's new prime minister, and delivered remarks vowing to "never" become a part of the United States.
+
+He took office on Friday just days after being elected leader of the governing Liberal Party and amid an ongoing trade war with US President Donald Trump.
+OTTAWA, March 9 (Reuters) - Former central banker Mark Carney won the race to become leader of Canada's ruling Liberal Party and will succeed Justin Trudeau as prime minister, official results showed on Sunday.
+Carney will take over at a tumultuous time in Canada, which is in the midst of a trade war with longtime ally the United States under President Donald Trump and must hold a general election soon. [...] Item 1 of 7 Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool
+[1/7]Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool Purchase Licensing Rights, opens new tab [...] Justin Trudeau stepping down after more than nine years in power
+
+Former central banker Mark Carney will be next Prime Minister
+Carney promises to fight Trump's tariffs
+
+
+
+
+Gemini responses: :
+Result: TRUTH
+Reasoning: The search context contains multiple statements confirming that Mark Carney is the Prime Minister of Canada. For example, "Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025." and "Mark Carney is Canada’s 24th Prime Minister. He was elected Leader of the Liberal Party of Canada and sworn in as Prime Minister in March 2025."
+
+
+
+
+Llama responses: :
+Result: TRUTH
+Reasoning: "Mark Carney is Canada’s 24th Prime Minister. He was elected Leader of the Liberal Party of Canada and sworn in as Prime Minister in March 2025." 
+The search context clearly states that Mark Carney is the 24th Prime Minister of Canada and was sworn in as Prime Minister in March 2025.None
+
+
+
+Final responses: :
+Result: TRUTH
+Reasoning: The search context contains multiple statements confirming that Mark Carney is the Prime Minister of Canada. For example, "Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025." and "Mark Carney is Canada’s 24th Prime Minister. He was elected Leader of the Liberal Party of Canada and sworn in as Prime Minister in March 2025."
+
+
+
+
+
+
+
+Concatenated text: 
+:
+Claim: 1. Mark Carney is the new Prime Minister of Canada.
+Questions: 1. Is Mark Carney the current Prime Minister of Canada?None
+Search context: Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025. He previously served as the eighth governor of the Bank of Canada from 2008 to 2013 and the 120th governor of the Bank of England from 2013 to 2020. [...] From Wikipedia, the free encyclopedia
+Prime Minister of Canada since 2025
+For the American football player, see Mark Carney (American football).
+| 
+The Right Honourable
+Mark Carney
+PC OC
+|
+| --- |
+| 
+Carney in 2015
+|
+|  |
+| 24th Prime Minister of Canada |
+| 
+Incumbent
+|
+| Assumed office
+March 14, 2025 |
+| Monarch | Charles III |
+| Governor General | Mary Simon |
+| Preceded by | Justin Trudeau |
+| Leader of the Liberal Party |
+| 
+Incumbent
+|
+| Assumed office
+March 9, 2025 | [...] 24th Prime Minister of Canada (2025–present)
+Leader of the Liberal Party of Canada (2025–present)
+120th Governor of the Bank of England (2013–2020)
+8th Governor of the Bank of Canada (2008–2013)
+2nd Chair of the Financial Stability Board (2011–2018)
+
+|
+| Premiership |
+The Right Honourable Mark Carney, Prime Minister of Canada
+Mark Carney is Canada’s 24th Prime Minister. He was elected Leader of the Liberal Party of Canada and sworn in as Prime Minister in March 2025. He leads a government that will take action to unite Canadians, defend Canada’s sovereignty, and build the strongest economy in the G7.
+TORONTO (AP) — Former central banker Mark Carney is Canada’s new prime minister after being sworn in following the resignation of Justin Trudeau.
+Carney is 59. He was born in Fort Smith, Northwest Territories, on March 16, 1965, and raised in Edmonton, Alberta.
+Credentials [...] Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Share
+Share [...] Fullscreen/Exit Fullscreenf
+Mute/Unmutem
+Decrease Caption Size-
+Increase Caption Size+ or =
+Seek %0-9
+0.5x1x1.25x1.5x2x
+facebook linkedin Email reddit
+Link
+Copied
+Auto1080p720p540p360p270p180p
+Live
+00:00
+01:54
+01:54 
+1 of 8 | Former central banker Mark Carney will become Canada’s next prime minister after the governing Liberal Party elected him its leader Sunday as the country deals with U.S. President Donald Trump’s trade war and annexation threat, and a federal election looms.
+Read More
+Mark Carney sworn in as first new Canadian prime minister in nine years
+
+Mark Carney, an economist and political newcomer, has been sworn in as Canada's new prime minister, and delivered remarks vowing to "never" become a part of the United States.
+
+He took office on Friday just days after being elected leader of the governing Liberal Party and amid an ongoing trade war with US President Donald Trump.
+OTTAWA, March 9 (Reuters) - Former central banker Mark Carney won the race to become leader of Canada's ruling Liberal Party and will succeed Justin Trudeau as prime minister, official results showed on Sunday.
+Carney will take over at a tumultuous time in Canada, which is in the midst of a trade war with longtime ally the United States under President Donald Trump and must hold a general election soon. [...] Item 1 of 7 Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool
+[1/7]Mark Carney waves on the day members of Canada's Liberal Party gather to choose a successor to Prime Minister Justin Trudeau, in Ottawa, Canada. REUTERS/Carlos Osorio/Pool Purchase Licensing Rights, opens new tab [...] Justin Trudeau stepping down after more than nine years in power
+
+Former central banker Mark Carney will be next Prime Minister
+Carney promises to fight Trump's tariffs
+
+Verification results: Result: TRUTH
+Reasoning: The search context contains multiple statements confirming that Mark Carney is the Prime Minister of Canada. For example, "Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist serving as the 24th prime minister of Canada and leader of the Liberal Party since 2025." and "Mark Carney is Canada’s 24th Prime Minister. He was elected Leader of the Liberal Party of Canada and sworn in as Prime Minister in March 2025."
+
+
+
+
+
+
+Final Summary: 
+:
+Based on the information available, the claim that Mark Carney is the Prime Minister of Canada is true. Multiple sources confirm that he assumed office in March 2025, succeeding Justin Trudeau. He is also the leader of the Liberal Party.
+
+
+
+
+
+
+Final Result: :
+Based on the information available, the claim that Mark Carney is the Prime Minister of Canada is true. Multiple sources confirm that he assumed office in March 2025, succeeding Justin Trudeau. He is also the leader of the Liberal Party.
+
+
+
+
